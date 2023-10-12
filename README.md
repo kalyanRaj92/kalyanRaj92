@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kalyanraj-burri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a></p>
+<a href="https://linkedin.com/in/kalyanraj-burri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 
 <h3 align="left">Languages-Frameworks and Tools:</h3>
 <p align="center">
@@ -18,21 +18,6 @@
     <img src="https://skillicons.dev/icons?i=py,nodejs,express,sqlite,git" />
   </a>
 </p>
-<!-- <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,nodejs,express" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=git"/>
-  </a>
-</p> -->
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalyanraj92&show_icons=true&locale=en&layout=compact" alt="kalyanraj92" /></p>
